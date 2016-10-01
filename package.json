@@ -1,0 +1,30 @@
+{
+  "name": "caremerge-test",
+  "version": "1.0.0",
+  "description": "Test for Care Merge ",
+  "main": "index.js",
+  "scripts": {
+    "task1": "node index.js task1",
+    "task2": "node index.js task2",
+    "task3": "node index.js task3",
+    "bonus": "node index.js bonus"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haseebahmad109/careaxiom-test.git"
+  },
+  "keywords": [
+    "caremerge",
+    "careaxiom",
+    "test"
+  ],
+  "author": "Haseeb Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "needle": "^1.1.2",
+    "q": "^1.4.1",
+    "rx": "^4.1.0",
+    "sync-request": "^3.0.1"
+  }
+}
